@@ -1,5 +1,5 @@
 # pwiLista8zadanie3
 
-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
+usuwam token bla bla bla
 Zmieniam readme.md
 
